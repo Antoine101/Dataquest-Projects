@@ -1,4 +1,4 @@
-# Dataquest-Projects
+# Dataquest Projects
 
 This repository contains all the guided data science projects I have done in my Dataquest "Data Scientist Career Path"  training.
 
