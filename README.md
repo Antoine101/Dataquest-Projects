@@ -1,8 +1,8 @@
 # Dataquest Projects
 
-This repository contains all the guided data science projects I have done in my Dataquest "Data Scientist Career Path"  training.
+This repository contains all the guided data science projects I have completed as part of my Dataquest "Data Scientist Career Path" training.
 
-Please bear in mind that these projects were completed at different step of my training and that they reflect the level of knowledge at a certain time.
+Please bear in mind that these projects were completed at different steps of my training and that they reflect the level of knowledge at a certain time.
 
 Below is a list of all the projects in this repository with information on what step and course of the training they were part of.
 
