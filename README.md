@@ -8,7 +8,7 @@ Below is a list of all the projects in this repository with information on what 
 
 ## Analysing CIA Factbook Data Using SQL
 
-Step : Working with Data Sources
+Step : Working with Data Sources\n
 Course 1/4 : SQL Fundamentals
 
 ## Analyzing NYC High School Data
