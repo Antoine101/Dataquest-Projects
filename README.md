@@ -1,5 +1,8 @@
 # Dataquest-Projects
-This repository contains all the guided data science projects I have done through my Dataquest training.
+
+This repository contains all the guided data science projects I have done in my Dataquest "Data Scientist Career Path"  training.
+
+Please bear in mind that these projects were completed at different step of my training and that they reflect the level of knowledge at a certain time.
 
 ## Analysing CIA Factbook Data Using SQL
 
