@@ -159,6 +159,10 @@ Step 5 of 8 : Probability and Statistics
 
 Course : Conditional Probability
 
+In this project, we create a spam filter for SMS messages wich has an accuracy of over 95%.
+
+To do that, we use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that were already classified by humans.
+
 ## Winning Jeopardy
 
 Step 5 of 8 : Probability and Statistics
