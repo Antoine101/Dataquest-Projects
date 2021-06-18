@@ -195,6 +195,10 @@ Step 6 of 8 : Machine Learning Introduction
 
 Course : Machine Learning Intermediate
 
+In this project, we work with data from the S&P500 stock market index. We use historical data on this index to make predictions about future prices. 
+
+Predicting whether an index will go up or down will help us forecast how the stock market as a whole will perform. Since stocks tend to correlate with how well the economy as a whole is performing, it can also help us make economic forecasts.
+
 ## Predicting Bike Rentals
 
 Step 6 of 8 : Machine Learning Introduction
