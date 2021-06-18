@@ -8,7 +8,7 @@ Below is a list of all the projects in this repository with information on what 
 
 ## Profitable App Profiles for the Apple Store and Google Play Store Markets
 
-#### **Keywords : Data Analysis, Data Visualisation, Marketing**
+### **Keywords : Data Analysis, Data Visualisation, Marketing**
 
 For this project, we pretend we're working as a data analyst for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store.
 We only build apps that are free to download and install, and our main source of revenue consists of in-app ads. This means our revenue for any given app is mostly influenced by the number of users who use our app — the more users that see and engage with the ads, the better.
@@ -17,7 +17,7 @@ In this project, we analyze data to help our developers understand what type of 
 
 ## Exploring Hacker News Posts
 
-**Keywords : Data Analysis, Data Visualisation, Media impact**
+### **Keywords : Data Analysis, Data Visualisation, Media impact**
 
 In this project, we work with a data set of submissions to the popular technology site Hacker News and we determine what the best time to publish a post is in order to receive the most comments.
 
@@ -25,14 +25,14 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 ## Exploring Ebay Car Sales Data
 
-**Keywords : Data Analysis, Data Visualisation**
+### **Keywords : Data Analysis, Data Visualisation**
 
 In this project, we work with a dataset of used cars from eBay Kleinanzeigen, a section of the German eBay website.
 We clean the data and analyze the included used car listings to gain some insight on the second-hand cars market (most represented brands, prices distribution, average mileage, ...).
 
 ## Visualizing College Majors Population, Popularity and Median Earning
 
-**Keywords : Data Analysis, Data Visualisation, Sociology**
+### **Keywords : Data Analysis, Data Visualisation, Sociology**
 
 In this project, we work with a dataset listing the job outcomes of students who graduated from college in the US between 2010 and 2012.
 
@@ -44,7 +44,7 @@ Using visualizations, we answer the following questions:
 
 ## Cleaning and Analyzing Employee Exit Surveys
 
-**Keywords : Data Analysis, Data Visualisation, Human ressources**
+### **Keywords : Data Analysis, Data Visualisation, Human ressources**
 
 In this project, we work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
 
@@ -56,7 +56,7 @@ We play the role of data analyst and answer the following questions to provide v
 
 ## Analyzing NYC High School Data
 
-**Keywords : Data Analysis, Data Visualisation, Education, Sociology**
+### **Keywords : Data Analysis, Data Visualisation, Education, Sociology**
 
 One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests like the SAT, and whether they're unfair to certain groups.
 
@@ -66,7 +66,7 @@ In this project, we investigate the correlations between SAT scores and demograp
 
 ## Star Wars Survey
 
-**Keywords : Data Analysis, Data Visualisation, Star Wars, Movie**
+### **Keywords : Data Analysis, Data Visualisation, Star Wars, Movie**
 
 While waiting for Star Wars: The Force Awakens to come out, the team at FiveThirtyEight became interested in answering some questions about Star Wars fan. In particular, they wondered: does the rest of America realize that The Empire Strikes Back is clearly the best of the bunch?
 
@@ -79,7 +79,7 @@ In this project, we clean and explore the data set to gain insight on the data a
 
 ## Analysing CIA Factbook Data Using SQL
 
-**Keywords : Data Analysis, SQL, demographics, countries**
+### **Keywords : Data Analysis, SQL, demographics, countries**
 
 In this project, we work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information such as each countrie's global population, annual population growth rate as a percentage, total land and water area, ...
 
@@ -92,7 +92,7 @@ We use SQL in Jupyter Notebook to analyze data from this database and answer que
 
 ## Answering Business Questions Using SQL
 
-**Keywords : Data Analysis, SQL, business, music, record store**
+### **Keywords : Data Analysis, SQL, business, music, record store**
 
 In this project, we practice using our SQL skills on a record store database.
 
@@ -104,7 +104,7 @@ Using the right queries, we answer the following business questions:
 
 ## Popular Data Science Questions
 
-**Keywords : Data Analysis, SQL, business, music, record store**
+### **Keywords : Data Analysis, SQL, business, music, record store**
 
 In this project, we pretend we work for a company that creates data science content, be it books, online articles, videos or interactive text-based platforms like Dataquest.
 
@@ -114,7 +114,7 @@ We scour the internet to understand what people want to learn about in Data Scie
 
 ## Investigating Fandango Movie Ratings
 
-**Keywords : Data Analysis, Data Visualisation, Statistics, Movie ratings**
+### **Keywords : Data Analysis, Data Visualisation, Statistics, Movie ratings**
 
 In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in an article.
 
@@ -125,7 +125,7 @@ In this project, we analyze more recent movie ratings data to determine whether 
 
 ## Finding the Best Markets to Advertise In
 
-**Keywords : Data Analysis, Data Visualisation, Statistics, Marketing, E-learning, Content creation**
+### **Keywords : Data Analysis, Data Visualisation, Statistics, Marketing, E-learning, Content creation**
 
 In this project, we pretend we are working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. 
 
@@ -133,7 +133,7 @@ Our goal in this project is to find out the two best markets to advertise our pr
 
 ## Mobile App for Lottery Addiction
 
-**Keywords : Data Analysis, Statistics, App development, Lottery, Medical, Gambling addiction**
+### **Keywords : Data Analysis, Statistics, App development, Lottery, Medical, Gambling addiction**
 
 A medical institute that aims to prevent and treat gambling addictions wants to build a dedicated mobile app to help lottery addicts better estimate their chances of winning. The institute has a team of engineers that will build the app, but they need us to create the logical core of the app and calculate probabilities.
 
@@ -141,7 +141,7 @@ In this project, we contribute to the development of that app.
 
 ## Building a Spam Filter with Naive Bayes
 
-**Keywords : Data Analysis, Conditional probability, Naive Bayes, SMS, Spam filter**
+### **Keywords : Data Analysis, Conditional probability, Naive Bayes, SMS, Spam filter**
 
 In this project, we create a spam filter for SMS messages wich has an accuracy of over 95%.
 
@@ -149,7 +149,7 @@ To do that, we use the multinomial Naive Bayes algorithm along with a dataset of
 
 ## Winning Jeopardy
 
-**Keywords : Data Analysis, Statistics, Chi-squared test, Jeopardy, Game show**
+### **Keywords : Data Analysis, Statistics, Chi-squared test, Jeopardy, Game show**
 
 Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture.
 
@@ -157,19 +157,19 @@ In this project, we look for patterns in the previous questions of the TV game s
 
 ## Predicting Car Prices
 
-**Keywords : Data Analysis, Machine Learning, K-Nearest Neighbors, Cars, Price prediction**
+### **Keywords : Data Analysis, Machine Learning, K-Nearest Neighbors, Cars, Price prediction**
 
 In this project, we practice the machine learning workflow and implement a k-nearest neighbors algorithm to predict a car's market price using its attributes.
 
 ## Predicting House Sale Prices
 
-**Keywords : Data Analysis, Machine Learning, Linear Regression, Functions pipeline, Houses, Price prediction**
+### **Keywords : Data Analysis, Machine Learning, Linear Regression, Functions pipeline, Houses, Price prediction**
 
 In this project, we implement a linear regression model to predict house sale prices. To do that, we create a pipeline of functions that let us quickly iterate on different models.
 
 ## Predicting the Stock Market
 
-**Keywords : Data Analysis, Machine Learning, Linear Regression, Forecasting, Time Series, Stock Market, Index**
+### **Keywords : Data Analysis, Machine Learning, Linear Regression, Forecasting, Time Series, Stock Market, Index**
 
 In this project, we work with data from the S&P500 stock market index. We use historical data on this index to make predictions about future prices. 
 
@@ -177,7 +177,7 @@ Predicting whether an index will go up or down will help us forecast how the sto
 
 ## Predicting Bike Rentals
 
-**Keywords : Data Analysis, Machine Learning, Linear Regression, Decision Tree, Random Forest, Bike Sharing, Demand Prediction**
+### **Keywords : Data Analysis, Machine Learning, Linear Regression, Decision Tree, Random Forest, Bike Sharing, Demand Prediction**
 
 Many American cities have communal bike sharing stations where one can rent bicycles by the hour or day. Washington, D.C. is one of these cities. The District collects detailed data on the number of bicycles people rent by the hour and day.
 
@@ -185,13 +185,13 @@ In this project, we predict the total number of bikes people rented in a given h
 
 ## Building A Handwritten Digits Classifier
 
-**Keywords : Machine Learning, Deep Learning, K-Nearest Neighbors, Neural Network, Image Classification**
+### **Keywords : Machine Learning, Deep Learning, K-Nearest Neighbors, Neural Network, Image Classification**
 
 In this project, we build models that can classify handwritten digits. We start by implementing a traditional K-Nearest Neighbors model and then implement a deep, feedforward neural network with increasing numbers of neurons and layers.
 
 ## Kaggle Titanic Competition
 
-**Keywords : Data Analysis, Data Visualisation, Machine Learning, Prediction, Binary Classification, Titanic**
+### **Keywords : Data Analysis, Data Visualisation, Machine Learning, Prediction, Binary Classification, Titanic**
 
 In this project, we tackle the Titanic competition, one of the most popular competitions from the Kaggle platform.
 
@@ -203,7 +203,7 @@ For this challenge, we first run a thorough analysis of the dataset and then imp
 
 ## Building Fast Queries on a CSV
 
-**Keywords : Data Engineering, Algorithm Complexity, Speed Improvement, Business**
+### **Keywords : Data Engineering, Algorithm Complexity, Speed Improvement, Business**
 
 In this project, we pretend we own an online laptop store and want to build a way to answer a few different business questions about our inventory.
 
@@ -211,14 +211,14 @@ To do that, we create a class that represents our inventory with several methods
 
 ## Building a Database for Crime Reports
 
-**Keywords : Data Engineering, Database Creation, Database Management, Postgres, SQL**
+### **Keywords : Data Engineering, Database Creation, Database Management, Postgres, SQL**
 
 In this project, we build a database for storing data related with crimes that occured in Boston.
 We create a database with a table with appropriate datatypes for storing the data from the dataset. We create the table inside a schema. We also create the readonly and readwrite groups with the appropriate privileges. Finally, we create one user for each of these groups.
 
 ## Analyzing Wikipedia Pages
 
-**Keywords : Data Engineering, Processes Parallelization, MapReduce**
+### **Keywords : Data Engineering, Processes Parallelization, MapReduce**
 
 The grep command-line utility allows searching for textual data in all files from a given directory.
 
