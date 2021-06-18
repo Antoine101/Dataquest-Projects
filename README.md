@@ -46,9 +46,11 @@ In this project, we work with a dataset listing the job outcomes of students who
 
 Using visualizations, we answer the following questions:
 
-Do students in more popular majors make more money?
-How many majors are predominantly male? Predominantly female?
-Which category of majors have the most students?
+- Do students in more popular majors make more money?
+
+- How many majors are predominantly male? Predominantly female?
+
+- Which category of majors have the most students?
 
 ## Cleaning and Analyzing Employee Exit Surveys
 
