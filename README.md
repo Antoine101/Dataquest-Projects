@@ -86,6 +86,16 @@ Step 2 of 8 : Data Analysis and Visualization
 
 Course : Data Cleaning Project Walkthrough
 
+While waiting for Star Wars: The Force Awakens to come out, the team at FiveThirtyEight became interested in answering some questions about Star Wars fan. In particular, they wondered: does the rest of America realize that The Empire Strikes Back is clearly the best of the bunch?
+
+The team needed to collect data addressing this question. To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses, which we will download from their GitHub repository.
+
+In this project, we clean and explore the data set to gain insight on the data and answer two main questions:
+
+- Which episode is the most viewed?
+- 
+- Which episode is ranked the highest?
+
 ## Analysing CIA Factbook Data Using SQL
 
 Step 4 of 8 : Working with Data Sources
