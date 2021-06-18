@@ -205,14 +205,28 @@ Step 6 of 8 : Machine Learning Introduction
 
 Course : Decision Trees
 
+Many American cities have communal bike sharing stations where one can rent bicycles by the hour or day. Washington, D.C. is one of these cities. The District collects detailed data on the number of bicycles people rent by the hour and day.
+
+In this project, we predict the total number of bikes people rented in a given hour. To accomplish this, we implement a few different machine learning models (a linear regression model, a single tree regressor and a random forest regressor) and evaluate their performance.
+
 ## Building A Handwritten Digits Classifier
 
 Step 7 of 8 : Machine Learning Intermediate
 
 Course : Deep Learning Fundamentals
 
+In this project, we build models that can classify handwritten digits. We start by implementing a traditional K-Nearest Neighbors model and then implement a deep, feedforward neural network with increasing numbers of neurons and layers.
+
 ## Kaggle Titanic Competition
 
 Step 7 of 8 : Machine Learning Intermediate
 
 Course : Kaggle Fundamentals
+
+In this project, we tackle the Titanic competition, one of the most popular competitions from the Kaggle platform.
+
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
+On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+For this challenge, we first run a thorough analysis of the dataset and then implement a few predictive models and test their accuracy at predicting the survival or death of passengers. 
