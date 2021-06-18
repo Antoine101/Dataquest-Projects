@@ -114,6 +114,12 @@ Step 4 of 8: Working with Data Sources
 
 Course : Data Analysis in Business
 
+In this project, we're working for a company that creates data science content, be it books, online articles, videos or interactive text-based platforms like Dataquest.
+
+Our goal is to figure out what the best content to write about is.
+
+We decide to scour the internet in search for the answer to the question "What is it that people want to learn about in data science?" (as opposed to determining the most profitable content).
+
 ## Investigating Fandango Movie Ratings
 
 Step 5 of 8 : Probability and Statistics
