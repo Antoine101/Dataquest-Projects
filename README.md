@@ -242,3 +242,8 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 For this challenge, we first run a thorough analysis of the dataset and then implement a few predictive models and test their accuracy at predicting the survival or death of passengers. 
+
+## Building Fast Queries on a CSV
+
+In this project, we pretend we own an online laptop store and want to build a way to answer a few different business questions about our inventory.
+To do that, we create a class that represents our inventory with several methods to answer questions about it. We then improve these methods using data preprocessing and our knowledge of algorithms time and space complexity to speed up their performance.
