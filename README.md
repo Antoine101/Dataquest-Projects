@@ -58,6 +58,16 @@ Step 2 of 8 : Data Analysis and Visualization
 
 Course : Data Cleaning and Analysis
 
+In this project, we work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
+
+We play the role of data analyst and answer the following questions to provide valuable insight to our stakeholders:
+
+- Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? 
+
+- What about employees who have been there longer?
+
+- Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
 ## Analyzing NYC High School Data
 
 Step 2 of 8 : Data Analysis and Visualization
