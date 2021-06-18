@@ -141,7 +141,7 @@ In this project, we contribute to the development of that app.
 
 ## Building a Spam Filter with Naive Bayes
 
-S**Keywords : Data Analysis, Conditional probability, Naive Bayes, SMS, Spam filter**
+**Keywords : Data Analysis, Conditional probability, Naive Bayes, SMS, Spam filter**
 
 In this project, we create a spam filter for SMS messages wich has an accuracy of over 95%.
 
@@ -149,9 +149,7 @@ To do that, we use the multinomial Naive Bayes algorithm along with a dataset of
 
 ## Winning Jeopardy
 
-Step 5 of 8 : Probability and Statistics
-
-Course : Hypothesis Testing Fundamentals
+**Keywords : Data Analysis, Statistics, Chi-squared test, Jeopardy, Game show**
 
 Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture.
 
@@ -159,25 +157,19 @@ In this project, we look for patterns in the previous questions of the TV game s
 
 ## Predicting Car Prices
 
-Step 6 of 8 : Machine Learning Introduction
-
-Course : Machine Learning Fundamentals
+**Keywords : Data Analysis, Machine Learning, Cars, Price prediction, K-Nearest Neighbors**
 
 In this project, we practice the machine learning workflow and implement a k-nearest neighbors algorithm to predict a car's market price using its attributes.
 
 ## Predicting House Sale Prices
 
-Step 6 of 8 : Machine Learning Introduction
-
-Course : Linear Regression for Machine Learning
+**Keywords : Data Analysis, Machine Learning, Houses, Price prediction, Linear Regression, Functions pipeline**
 
 In this project, we implement a linear regression model to predict house sale prices. To do that, we create a pipeline of functions that let us quickly iterate on different models.
 
 ## Predicting the Stock Market
 
-Step 6 of 8 : Machine Learning Introduction
-
-Course : Machine Learning Intermediate
+**Keywords : Data Analysis, Machine Learning, Linear Regression, Forecasting, Time Series, Stock Market, Index**
 
 In this project, we work with data from the S&P500 stock market index. We use historical data on this index to make predictions about future prices. 
 
@@ -185,9 +177,7 @@ Predicting whether an index will go up or down will help us forecast how the sto
 
 ## Predicting Bike Rentals
 
-Step 6 of 8 : Machine Learning Introduction
-
-Course : Decision Trees
+**Keywords : Data Analysis, Machine Learning, Linear Regression, Decision Tree, Random Forest, Bike Sharing, Demand Prediction**
 
 Many American cities have communal bike sharing stations where one can rent bicycles by the hour or day. Washington, D.C. is one of these cities. The District collects detailed data on the number of bicycles people rent by the hour and day.
 
