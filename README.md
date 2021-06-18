@@ -74,6 +74,12 @@ Step 2 of 8 : Data Analysis and Visualization
 
 Course : Data Cleaning Project Walkthrough
 
+One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests like the SAT, and whether they're unfair to certain groups.
+
+The SAT, or Scholastic Aptitude Test, is an exam that U.S. high school students take before applying to college. Colleges take the test scores into account when deciding who to admit, so it's fairly important to perform well on it.
+
+In this project, we investigate the correlations between SAT scores and demographics and search for trends that would confirm the unfairness of such a test.
+
 ## Star Wars Survey
 
 Step 2 of 8 : Data Analysis and Visualization
