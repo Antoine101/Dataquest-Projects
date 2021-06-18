@@ -23,11 +23,9 @@ Step 1 of 8 : Python Introduction
 
 Course : Python for Data Science - Intermediate
 
-In this project, we work with a data set of submissions to the popular technology site Hacker News.
+In this project, we work with a data set of submissions to the popular technology site Hacker News and we determine what the best time to publish a post is in order to receive the most comments.
 
 Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") are voted and commented upon, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
-
-Our goal is to determine what the best time to publish a post is in order to receive the most comments.
 
 ## Exploring Ebay Car Sales Data
 
