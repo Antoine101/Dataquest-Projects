@@ -27,18 +27,12 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 **Keywords : Data Analysis, Data Visualisation**
 
-Course : Pandas and Numpy Fundamentals
-Step 2 of 8 : Data Analysis and Visualization
-
 In this project, we work with a dataset of used cars from eBay Kleinanzeigen, a section of the German eBay website.
 We clean the data and analyze the included used car listings to gain some insight on the second-hand cars market (most represented brands, prices distribution, average mileage, ...).
 
 ## Visualizing College Majors Population, Popularity and Median Earning
 
 **Keywords : Data Analysis, Data Visualisation, Sociology**
-
-Course : Exploratory Data Visualization
-Step 2 of 8 : Data Analysis and Visualization
 
 In this project, we work with a dataset listing the job outcomes of students who graduated from college in the US between 2010 and 2012.
 
@@ -50,8 +44,7 @@ Using visualizations, we answer the following questions:
 
 ## Cleaning and Analyzing Employee Exit Surveys
 
-Course : Data Cleaning and Analysis
-Step 2 of 8 : Data Analysis and Visualization
+**Keywords : Data Analysis, Data Visualisation, Human ressources**
 
 In this project, we work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
 
@@ -63,9 +56,7 @@ We play the role of data analyst and answer the following questions to provide v
 
 ## Analyzing NYC High School Data
 
-Step 2 of 8 : Data Analysis and Visualization
-
-Course : Data Cleaning Project Walkthrough
+**Keywords : Data Analysis, Data Visualisation, Education, Sociology**
 
 One of the most controversial issues in the U.S. educational system is the efficacy of standardized tests like the SAT, and whether they're unfair to certain groups.
 
@@ -75,9 +66,7 @@ In this project, we investigate the correlations between SAT scores and demograp
 
 ## Star Wars Survey
 
-Step 2 of 8 : Data Analysis and Visualization
-
-Course : Data Cleaning Project Walkthrough
+**Keywords : Data Analysis, Data Visualisation, Star Wars, Movie**
 
 While waiting for Star Wars: The Force Awakens to come out, the team at FiveThirtyEight became interested in answering some questions about Star Wars fan. In particular, they wondered: does the rest of America realize that The Empire Strikes Back is clearly the best of the bunch?
 
@@ -90,9 +79,7 @@ In this project, we clean and explore the data set to gain insight on the data a
 
 ## Analysing CIA Factbook Data Using SQL
 
-Step 4 of 8 : Working with Data Sources
-
-Course : SQL Fundamentals
+**Keywords : Data Analysis, SQL, demographics, countries**
 
 In this project, we work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information such as each countrie's global population, annual population growth rate as a percentage, total land and water area, ...
 
@@ -105,9 +92,7 @@ We use SQL in Jupyter Notebook to analyze data from this database and answer que
 
 ## Answering Business Questions Using SQL
 
-Step 4 of 8 : Working with Data Sources
-
-Course : SQL Intermediate
+**Keywords : Data Analysis, SQL, business, music, record store**
 
 In this project, we practice using our SQL skills on a record store database.
 
@@ -119,21 +104,17 @@ Using the right queries, we answer the following business questions:
 
 ## Popular Data Science Questions
 
-Step 4 of 8: Working with Data Sources
+**Keywords : Data Analysis, SQL, business, music, record store**
 
-Course : Data Analysis in Business
-
-In this project, we're working for a company that creates data science content, be it books, online articles, videos or interactive text-based platforms like Dataquest.
+In this project, we pretend we work for a company that creates data science content, be it books, online articles, videos or interactive text-based platforms like Dataquest.
 
 Our goal is to figure out what the best content to write about is.
 
-We decide to scour the internet in search for the answer to the question "What is it that people want to learn about in data science?" (as opposed to determining the most profitable content).
+We scour the internet to understand what people want to learn about in Data Science (as opposed to determining the most profitable content).
 
 ## Investigating Fandango Movie Ratings
 
-Step 5 of 8 : Probability and Statistics
-
-Course : Statistics Fundamentals
+**Keywords : Data Analysis, Data Visualisation, Statistics, Movie ratings**
 
 In October 2015, a data journalist named Walt Hickey analyzed movie ratings data and found strong evidence to suggest that Fandango's rating system was biased and dishonest (Fandango is an online movie ratings aggregator). He published his analysis in an article.
 
@@ -144,9 +125,7 @@ In this project, we analyze more recent movie ratings data to determine whether 
 
 ## Finding the Best Markets to Advertise In
 
-Step 5 of 8 : Probability and Statistics
-
-Course : Statistics Intermediate - Averages and Variability
+**Keywords : Data Analysis, Data Visualisation, Statistics, Marketing, E-learning, Content creation**
 
 In this project, we pretend we are working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. 
 
@@ -154,9 +133,7 @@ Our goal in this project is to find out the two best markets to advertise our pr
 
 ## Mobile App for Lottery Addiction
 
-Step 5 of 8 : Probability and Statistics
-
-Course : Probability Fundamentals
+**Keywords : Data Analysis, Statistics, App development, Lottery, Medical, Gambling addiction**
 
 A medical institute that aims to prevent and treat gambling addictions wants to build a dedicated mobile app to help lottery addicts better estimate their chances of winning. The institute has a team of engineers that will build the app, but they need us to create the logical core of the app and calculate probabilities.
 
@@ -164,9 +141,7 @@ In this project, we contribute to the development of that app.
 
 ## Building a Spam Filter with Naive Bayes
 
-Step 5 of 8 : Probability and Statistics
-
-Course : Conditional Probability
+S**Keywords : Data Analysis, Conditional probability, Naive Bayes, SMS, Spam filter**
 
 In this project, we create a spam filter for SMS messages wich has an accuracy of over 95%.
 
