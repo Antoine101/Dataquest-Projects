@@ -8,11 +8,10 @@ Below is a list of all the projects in this repository with information on what 
 
 ## Profitable App Profiles for the Apple Store and Google Play Store Markets
 
-Step 1 of 8 : Python Introduction
+**Keywords : Data Analysis, Data Visualisation, Marketing**
 
 Course : Python for Data Science - Fundamentals
-
-**Keywords : Data Analysis, Data Visualisation, Marketing**
+Step 1 of 8 : Python Introduction
 
 For this project, we pretend we're working as a data analyst for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store.
 We only build apps that are free to download and install, and our main source of revenue consists of in-app ads. This means our revenue for any given app is mostly influenced by the number of users who use our app — the more users that see and engage with the ads, the better.
@@ -21,11 +20,10 @@ In this project, we analyze data to help our developers understand what type of 
 
 ## Exploring Hacker News Posts
 
-Step 1 of 8 : Python Introduction
+**Keywords : Data Analysis, Data Visualisation, Media impact**
 
 Course : Python for Data Science - Intermediate
-
-**Keywords : Data Analysis, Data Visualisation, Media impact**
+Step 1 of 8 : Python Introduction
 
 In this project, we work with a data set of submissions to the popular technology site Hacker News and we determine what the best time to publish a post is in order to receive the most comments.
 
@@ -33,22 +31,20 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 ## Exploring Ebay Car Sales Data
 
-Step 2 of 8 : Data Analysis and Visualization
+**Keywords : Data Analysis, Data Visualisation**
 
 Course : Pandas and Numpy Fundamentals
-
-**Keywords : Data Analysis, Data Visualisation**
+Step 2 of 8 : Data Analysis and Visualization
 
 In this project, we work with a dataset of used cars from eBay Kleinanzeigen, a section of the German eBay website.
 We clean the data and analyze the included used car listings to gain some insight on the second-hand cars market (most represented brands, prices distribution, average mileage, ...).
 
 ## Visualizing College Majors Population, Popularity and Median Earning
 
-Step 2 of 8 : Data Analysis and Visualization
+**Keywords : Data Analysis, Data Visualisation, Sociology**
 
 Course : Exploratory Data Visualization
-
-**Keywords : Data Analysis, Data Visualisation, Sociology**
+Step 2 of 8 : Data Analysis and Visualization
 
 In this project, we work with a dataset listing the job outcomes of students who graduated from college in the US between 2010 and 2012.
 
@@ -60,9 +56,8 @@ Using visualizations, we answer the following questions:
 
 ## Cleaning and Analyzing Employee Exit Surveys
 
-Step 2 of 8 : Data Analysis and Visualization
-
 Course : Data Cleaning and Analysis
+Step 2 of 8 : Data Analysis and Visualization
 
 In this project, we work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia.
 
