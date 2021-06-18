@@ -169,12 +169,17 @@ Step 5 of 8 : Probability and Statistics
 
 Course : Hypothesis Testing Fundamentals
 
+Jeopardy is a popular TV show in the US where participants answer questions to win money. It's been running for a few decades, and is a major force in popular culture.
+
+In this project, we look for patterns in the previous questions of the TV game show Jeopardy that could help us win.
+
 ## Predicting Car Prices
 
 Step 6 of 8 : Machine Learning Introduction
 
 Course : Machine Learning Fundamentals
 
+In this project, we practice the machine learning workflow and implement a k-nearest neighbors algorithm to predict a car's market price using its attributes.
 
 ## Predicting House Sale Prices
 
