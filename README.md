@@ -157,13 +157,13 @@ In this project, we look for patterns in the previous questions of the TV game s
 
 ## Predicting Car Prices
 
-**Keywords : Data Analysis, Machine Learning, Cars, Price prediction, K-Nearest Neighbors**
+**Keywords : Data Analysis, Machine Learning, K-Nearest Neighbors, Cars, Price prediction**
 
 In this project, we practice the machine learning workflow and implement a k-nearest neighbors algorithm to predict a car's market price using its attributes.
 
 ## Predicting House Sale Prices
 
-**Keywords : Data Analysis, Machine Learning, Houses, Price prediction, Linear Regression, Functions pipeline**
+**Keywords : Data Analysis, Machine Learning, Linear Regression, Functions pipeline, Houses, Price prediction**
 
 In this project, we implement a linear regression model to predict house sale prices. To do that, we create a pipeline of functions that let us quickly iterate on different models.
 
