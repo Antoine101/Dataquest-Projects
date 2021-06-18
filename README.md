@@ -185,17 +185,13 @@ In this project, we predict the total number of bikes people rented in a given h
 
 ## Building A Handwritten Digits Classifier
 
-Step 7 of 8 : Machine Learning Intermediate
-
-Course : Deep Learning Fundamentals
+**Keywords : Machine Learning, Deep Learning, K-Nearest Neighbors, Neural Network, Image Classification**
 
 In this project, we build models that can classify handwritten digits. We start by implementing a traditional K-Nearest Neighbors model and then implement a deep, feedforward neural network with increasing numbers of neurons and layers.
 
 ## Kaggle Titanic Competition
 
-Step 7 of 8 : Machine Learning Intermediate
-
-Course : Kaggle Fundamentals
+**Keywords : Data Analysis, Data Visualisation, Machine Learning, Prediction, Binary Classification, Titanic**
 
 In this project, we tackle the Titanic competition, one of the most popular competitions from the Kaggle platform.
 
@@ -207,16 +203,22 @@ For this challenge, we first run a thorough analysis of the dataset and then imp
 
 ## Building Fast Queries on a CSV
 
+**Keywords : Data Engineering, Algorithm Complexity, Speed Improvement, Business**
+
 In this project, we pretend we own an online laptop store and want to build a way to answer a few different business questions about our inventory.
 
 To do that, we create a class that represents our inventory with several methods to answer questions about it. We then improve these methods using data preprocessing and our knowledge of algorithms time and space complexity to speed up their performance.
 
 ## Building a Database for Crime Reports
 
+**Keywords : Data Engineering, Database Creation, Database Management, Postgres, SQL**
+
 In this project, we build a database for storing data related with crimes that occured in Boston.
 We create a database with a table with appropriate datatypes for storing the data from the dataset. We create the table inside a schema. We also create the readonly and readwrite groups with the appropriate privileges. Finally, we create one user for each of these groups.
 
 ## Analyzing Wikipedia Pages
+
+**Keywords : Data Engineering, Processes Parallelization, MapReduce**
 
 The grep command-line utility allows searching for textual data in all files from a given directory.
 
