@@ -120,6 +120,14 @@ Step 4 of 8 : Working with Data Sources
 
 Course : SQL Intermediate
 
+In this project, we practice using our SQL skills on a record store database.
+
+Using the right queries, we answer the following business questions:
+- What are the best three new albums to add to the store?
+- Whose employees have the highest sale perfomance?
+- Which countries do the store sell the most to?
+- Is buying only selected single tracks from record companies more profitable for the store than buying full new albums?
+
 ## Popular Data Science Questions
 
 Step 4 of 8: Working with Data Sources
