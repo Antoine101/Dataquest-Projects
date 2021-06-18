@@ -33,6 +33,9 @@ Step 2 of 8 : Data Analysis and Visualization
 
 Course : Pandas and Numpy Fundamentals
 
+In this project, we work with a dataset of used cars from eBay Kleinanzeigen, a section of the German eBay website.
+We clean the data and analyze the included used car listings to gain some insight on the second-hand cars market (most represented brands, prices distribution, average mileage, ...).
+
 ## Visualizing College Majors Population, Popularity and Median Earning
 
 Step 2 of 8 : Data Analysis and Visualization
