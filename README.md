@@ -11,6 +11,7 @@ Below is a list of all the projects in this repository with information on what 
 Step 1 of 8 : Python Introduction
 
 Course : Python for Data Science - Fundamentals
+
 **Keywords : Data Analysis, Data Visualisation**
 
 For this project, we pretend we're working as a data analyst for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store.
