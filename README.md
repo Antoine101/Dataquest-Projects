@@ -93,7 +93,7 @@ The team needed to collect data addressing this question. To do this, they surve
 In this project, we clean and explore the data set to gain insight on the data and answer two main questions:
 
 - Which episode is the most viewed?
-- 
+
 - Which episode is ranked the highest?
 
 ## Analysing CIA Factbook Data Using SQL
