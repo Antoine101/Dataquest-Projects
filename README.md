@@ -47,9 +47,7 @@ In this project, we work with a dataset listing the job outcomes of students who
 Using visualizations, we answer the following questions:
 
 - Do students in more popular majors make more money?
-
 - How many majors are predominantly male? Predominantly female?
-
 - Which category of majors have the most students?
 
 ## Cleaning and Analyzing Employee Exit Surveys
@@ -63,9 +61,7 @@ In this project, we work with exit surveys from employees of the Department of E
 We play the role of data analyst and answer the following questions to provide valuable insight to our stakeholders:
 
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? 
-
 - What about employees who have been there longer?
-
 - Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
 ## Analyzing NYC High School Data
@@ -93,7 +89,6 @@ The team needed to collect data addressing this question. To do this, they surve
 In this project, we clean and explore the data set to gain insight on the data and answer two main questions:
 
 - Which episode is the most viewed?
-
 - Which episode is ranked the highest?
 
 ## Analysing CIA Factbook Data Using SQL
@@ -107,11 +102,8 @@ In this project, we work with data from the CIA World Factbook, a compendium of 
 We use SQL in Jupyter Notebook to analyze data from this database and answer questions like the following:
 
 - What country has the highest growth rate?
-
 - Which countries have the highest ratio of water to land?
-
 - Which countries will add the most people to their population next year?
-
 - ...
 
 ## Answering Business Questions Using SQL
