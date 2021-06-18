@@ -253,3 +253,15 @@ To do that, we create a class that represents our inventory with several methods
 
 In this project, we build a database for storing data related with crimes that occured in Boston.
 We create a database with a table with appropriate datatypes for storing the data from the dataset. We create the table inside a schema. We also create the readonly and readwrite groups with the appropriate privileges. Finally, we create one user for each of these groups.
+
+## Analyzing Wikipedia Pages
+
+The grep command-line utility allows searching for textual data in all files from a given directory.
+
+In this project, we implement a simplified version of the grep command-line utility to search for data in 54MB worth of wikipedia scraped articles. 
+We also make use of MapReduce to parallelize our processes.
+
+Our main goals are:
+- Searching for all occurences of a string in all of the files
+- Providing a case-insensitive option to the search
+- Refining the result by providing the specific locations of the occurences
