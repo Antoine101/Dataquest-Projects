@@ -248,3 +248,8 @@ For this challenge, we first run a thorough analysis of the dataset and then imp
 In this project, we pretend we own an online laptop store and want to build a way to answer a few different business questions about our inventory.
 
 To do that, we create a class that represents our inventory with several methods to answer questions about it. We then improve these methods using data preprocessing and our knowledge of algorithms time and space complexity to speed up their performance.
+
+## Building a Database for Crime Reports
+
+In this project, we build a database for storing data related with crimes that occured in Boston.
+We create a database with a table with appropriate datatypes for storing the data from the dataset. We create the table inside a schema. We also create the readonly and readwrite groups with the appropriate privileges. Finally, we create one user for each of these groups.
