@@ -12,7 +12,7 @@ Step 1 of 8 : Python Introduction
 
 Course : Python for Data Science - Fundamentals
 
-**Keywords : Data Analysis, Data Visualisation**
+**Keywords : Data Analysis, Data Visualisation, Marketing**
 
 For this project, we pretend we're working as a data analyst for a company that builds Android and iOS mobile apps. We make our apps available on Google Play and the App Store.
 We only build apps that are free to download and install, and our main source of revenue consists of in-app ads. This means our revenue for any given app is mostly influenced by the number of users who use our app — the more users that see and engage with the ads, the better.
@@ -25,6 +25,8 @@ Step 1 of 8 : Python Introduction
 
 Course : Python for Data Science - Intermediate
 
+**Keywords : Data Analysis, Data Visualisation, Media impact**
+
 In this project, we work with a data set of submissions to the popular technology site Hacker News and we determine what the best time to publish a post is in order to receive the most comments.
 
 Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") are voted and commented upon, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
@@ -35,6 +37,8 @@ Step 2 of 8 : Data Analysis and Visualization
 
 Course : Pandas and Numpy Fundamentals
 
+**Keywords : Data Analysis, Data Visualisation**
+
 In this project, we work with a dataset of used cars from eBay Kleinanzeigen, a section of the German eBay website.
 We clean the data and analyze the included used car listings to gain some insight on the second-hand cars market (most represented brands, prices distribution, average mileage, ...).
 
@@ -43,6 +47,8 @@ We clean the data and analyze the included used car listings to gain some insigh
 Step 2 of 8 : Data Analysis and Visualization
 
 Course : Exploratory Data Visualization
+
+**Keywords : Data Analysis, Data Visualisation, Sociology**
 
 In this project, we work with a dataset listing the job outcomes of students who graduated from college in the US between 2010 and 2012.
 
