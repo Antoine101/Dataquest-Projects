@@ -102,6 +102,18 @@ Step 4 of 8 : Working with Data Sources
 
 Course : SQL Fundamentals
 
+In this project, we work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information such as each countrie's global population, annual population growth rate as a percentage, total land and water area, ...
+
+We use SQL in Jupyter Notebook to analyze data from this database and answer questions like the following:
+
+- What country has the highest growth rate?
+
+- Which countries have the highest ratio of water to land?
+
+- Which countries will add the most people to their population next year?
+
+- ...
+
 ## Answering Business Questions Using SQL
 
 Step 4 of 8 : Working with Data Sources
