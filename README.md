@@ -187,6 +187,8 @@ Step 6 of 8 : Machine Learning Introduction
 
 Course : Linear Regression for Machine Learning
 
+In this project, we implement a linear regression model to predict house sale prices. To do that, we create a pipeline of functions that let us quickly iterate on different models.
+
 ## Predicting the Stock Market
 
 Step 6 of 8 : Machine Learning Introduction
