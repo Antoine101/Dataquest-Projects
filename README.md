@@ -79,7 +79,7 @@ In this project, we clean and explore the data set to gain insight on the data a
 
 ## Analysing CIA Factbook Data Using SQL
 
-### **Keywords : Data Analysis, SQL, demographics, countries**
+### **Keywords : Data Analysis, SQL, Demographics, Countries**
 
 In this project, we work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information such as each countrie's global population, annual population growth rate as a percentage, total land and water area, ...
 
