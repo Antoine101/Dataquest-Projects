@@ -42,6 +42,14 @@ Step 2 of 8 : Data Analysis and Visualization
 
 Course : Exploratory Data Visualization
 
+In this project, we work with a dataset listing the job outcomes of students who graduated from college in the US between 2010 and 2012.
+
+Using visualizations, we answer the following questions:
+
+Do students in more popular majors make more money?
+How many majors are predominantly male? Predominantly female?
+Which category of majors have the most students?
+
 ## Cleaning and Analyzing Employee Exit Surveys
 
 Step 2 of 8 : Data Analysis and Visualization
