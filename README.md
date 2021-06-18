@@ -140,6 +140,7 @@ Step 5 of 8 : Probability and Statistics
 Course : Statistics Intermediate - Averages and Variability
 
 In this project, we pretend we are working for an e-learning company that offers courses on programming. Most of our courses are on web and mobile development, but we also cover many other domains, like data science, game development, etc. We want to promote our product and we'd like to invest some money in advertisement. 
+
 Our goal in this project is to find out the two best markets to advertise our product in.
 
 ## Mobile App for Lottery Addiction
